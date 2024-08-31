@@ -3,10 +3,10 @@
   <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Churn Prediction:
+## Health Insurance Cost Prediction with Pycaret:
 
 
-This is a brief study, about churn prediction for a telecommunications company.
+This project is about Health Insurance Cost Prediction with Pycaret.
 
 
 * [Instagram](https://www.instagram.com/rafaelgusmaoc/)
